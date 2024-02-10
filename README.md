@@ -1,4 +1,4 @@
-# -jai-Weather-App-
+# -Weather-App-
 
 # Weather Forecasting Web App
 
